@@ -1,4 +1,4 @@
-### Hi there 👋
+![Bilal Alghazi - Software Engineer - Full Stack Engineer](/images/bilal-alghazi-github-header.png)
 
 <!--
 **BilalAlGhazi/BilalAlGhazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
